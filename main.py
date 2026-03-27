@@ -1,5 +1,5 @@
 def main():
-    print(" from acc-jenkins! this is for jenkins pipeline.")
+    print("Hello, Jenkins!")
 
 
 if __name__ == "__main__":
